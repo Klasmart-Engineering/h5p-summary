@@ -3,7 +3,7 @@
     {
       "label": "소개 텍스트",
       "default": "올바른 문장을 고르세요.",
-      "description": "요약 과업(task) 위에 표시됨."
+      "description": "요약 작업 위에 표시됩니다."
     },
     {
       "widgets": [
@@ -54,7 +54,10 @@
               {
                 "label": "점수 범위"
               },
-              {},
+              {
+                "one": "",
+                "other": ""
+              },
               {
                 "label": "정의된 점수 범위에 대한 피드백",
                 "placeholder": "피드백을 작성"
