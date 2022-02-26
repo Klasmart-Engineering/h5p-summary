@@ -1,3 +1,7 @@
+.h5p-summary {
+  font-family: 'Roboto', sans-serif;
+}
+
 .h5p-summary .summary-content .summary-container > ul {
   margin: 0;
   padding: 0;
